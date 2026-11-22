@@ -54,6 +54,31 @@ The project includes saved model weights for both models.
 ## Project Type
 
 Final-Year Academic Project
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Buyer Dashboard
+![Buyer Dashboard](screenshots/buyer_dashboard.png)
+
+### Product Browsing
+![Products](screenshots/products.png)
+
+### Seller Dashboard
+![Seller Dashboard](screenshots/seller_dashboard.png)
+
+### Demand Map
+![Demand Map](screenshots/demand_map.png)
+
+### Community Trends
+![Community Trends](screenshots/community_trends.png)
+
+### Product Demand Analysis
+![Product Demand](screenshots/product_demand(1).png)
+
+### Sequential Model
+![Sequential Model](screenshots/sequential_model.png)
 
 ## Disclaimer
 
